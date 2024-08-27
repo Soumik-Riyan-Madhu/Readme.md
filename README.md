@@ -1,20 +1,24 @@
-Hi there 👋
-LinkedIn Connect Facebook Follow
 
-I am a skilled and motivated Front-End Web Developer with over 5 years of experience in crafting responsive, user-centric web applications. My career journey includes significant contributions to enterprise-level projects, leveraging my expertise in HTML, CSS, JavaScript, and various modern front-end frameworks. My active involvement in web development during my B.Sc. studies has honed my design skills and deepened my understanding of user experience (UX) principles.
+Hi there, I'm Soumik Riyan 👋
+I'm a skilled and motivated Front-End Web Developer with over 5 years of experience in building responsive, user-friendly web applications. Throughout my career, I’ve made significant contributions to enterprise-level projects, focusing on delivering clean, maintainable code and intuitive user interfaces. My expertise spans across modern front-end technologies and frameworks, ensuring that every project I work on is both functional and aesthetically pleasing.
 
-I thrive in collaborative environments, bringing a quick learning attitude and a team player mindset. My excellent communication skills enable me to effectively translate complex design concepts into intuitive, user-friendly interfaces, ensuring seamless user interaction and client satisfaction.
-
-Specialties & Technologies:
-
-Languages: HTML, CSS, JavaScript
+🛠️ Technologies & Tools:
+Languages: HTML, CSS, JavaScript, TypeScript
+Frameworks & Libraries: React, Angular, Vue.js, jQuery
 Version Control: Git
+Build Tools: Webpack, Gulp, Grunt
 CSS Preprocessors: SASS, LESS
 Design Tools: Adobe XD, Figma, Sketch
-Development Approaches: Responsive Design
-Environments: Visual Studio Code, Sublime Text
-Operating Systems: Windows
+Testing: Jest, Cypress, Mocha
 Deployment & Hosting: Netlify, Vercel, GitHub Pages
-I am enthusiastic about the opportunity to bring my skills and experience to your organization, contributing to the growth and success of your team.
+🌱 Currently Learning:
+Advanced JavaScript techniques and performance optimization
+Progressive Web Apps (PWAs)
+Web accessibility best practices
+👯 Let's Collaborate:
+I love working in collaborative environments where I can share my knowledge and learn from others. If you have an exciting project in mind, feel free to reach out!
 
+📫 How to Reach Me:
+LinkedIn
+Email
 Contact: soumik2010bd@gmail.com
